@@ -15,7 +15,7 @@ This workshop is built using two components:
 2) Clone this repository and run docker-compose:
 
 ```
-git clone <repo name here>
+git clone https://github.com/wix-playground/varnish-workshop
 cd varnish-workshop/docker
 docker-compose build
 docker-compose up
